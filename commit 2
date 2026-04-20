@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int temp1, temp2, temp3;
+
+    cout << "Enter first temperature: ";
+    cin >> temp1;
+
+    cout << "Enter second temperature: ";
+    cin >> temp2;
+
+    cout << "Enter third temperature: ";
+    cin >> temp3;
+
+    return 0;
+}
